@@ -9,7 +9,7 @@ import torch
 # ---------------- PAGE CONFIG ---------------- #
 
 st.set_page_config(
-    page_title="SentiFusionAI",
+    page_title="MoodSyncAI",
     layout="wide"
 )
 
@@ -100,7 +100,7 @@ classifier = load_text_model()
 # ---------------- HEADER ---------------- #
 
 st.markdown(
-    "<div class='big-title'>🧠 SentiFusionAI</div>",
+    "<div class='big-title'>🧠 MoodsyncAI</div>",
     unsafe_allow_html=True
 )
 
@@ -210,7 +210,7 @@ with col2:
 st.markdown("""
 <div class='footer-box'>
 
-<h2>🧠 SentiFusionAI</h2>
+<h2>🧠 MoodSyncAI</h2>
 
 <h4>Advanced Multimodal Emotion Intelligence System</h4>
 
@@ -219,4 +219,4 @@ Developed By <b>Vamsi Likith Reddy Mallidi</b> 🚀
 </p>
 
 </div>
-""", unsafe_allow_html=True) 
+""", unsafe_allow_html=True)
