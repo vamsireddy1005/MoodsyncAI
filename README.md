@@ -1,4 +1,4 @@
-# 🧠 SentiFusionAI
+# 🧠 MoodsynxAI
 
 Advanced Multimodal Emotion Intelligence System using:
 
